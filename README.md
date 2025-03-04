@@ -44,7 +44,7 @@ ALLOW_ADMIN_COMMANDS=true_or_false
 ```
 
 - **`TOKEN`**: This is your bot's Discord token. Replace it with your actual bot token.
-- **`COOLDOWN_MINUTES`**: This variable defines the cooldown period between commands (in minutes). Set it to a value that prevents abuse (e.g., `5`).
+- **`COOLDOWN_MINUTES`**: This variable defines the cooldown period between commands (in minutes).
 - **`ROLE_IDS`**: A comma-separated list of role IDs that are allowed to use the bot for stealing emojis.
 - **`ALLOW_ADMIN_COMMANDS`**: Set this to `true` if you want to allow admins to use certain commands; `false` otherwise.
 
