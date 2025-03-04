@@ -31,7 +31,7 @@ git clone https://github.com/KaloudasDev/EmojiStealer-Bot
 ### 2️⃣ **Install Dependencies**  
 Navigate to the project folder and install the required dependencies:  
 ```sh
-npm install discord.js@latest axios dotenv
+npm install discord.js@latest dotenv
 ```
 
 ### 3️⃣ **Set Up Environment Variables**  
