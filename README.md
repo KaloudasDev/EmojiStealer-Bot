@@ -1,4 +1,4 @@
-# 🔫 **Emoji Stealer Bot**
+# 🔒 **Emoji Stealer Bot**
 
 **Description:**  
 - The **Emoji Stealer Bot** is a Discord bot designed to effortlessly steal emojis from other servers and add them to your own. It enables users with the necessary permissions to transfer emojis quickly, making it a convenient tool for server admins and emoji enthusiasts.
